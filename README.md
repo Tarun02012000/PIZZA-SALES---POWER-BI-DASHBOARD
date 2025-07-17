@@ -6,7 +6,7 @@ This project is a comprehensive Pizza Sales Dashboard built to analyze and visua
 🔧 Tools Used
 Microsoft Excel: Data cleaning, pre-processing, and exploration
 
-SQL (MySQL/PostgreSQL): Querying structured sales data from database tables
+SQL (MySQL): Querying structured sales data from database tables
 
 Power BI: Interactive dashboard creation with dynamic visualizations and DAX calculations
 
